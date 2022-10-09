@@ -16,7 +16,7 @@ long-description: |
 
     - Generate a password as per the selected controls
 
-    - Copy the generated password to clipboard.
+    - Copy the generated password to clipboard
 
     You can go through the `Readme.md` to see more details regarding the project and the designs folder to see the preview images of the project for desktop and mobile viewports.
 
